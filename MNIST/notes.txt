@@ -1,0 +1,10 @@
+9/26 (Thursday) meeting
+
+MNIST are 28 x 28 images
+- try different model if stuck
+
+10/8
+
+- Train on full, test on high, low, and no
+- Train on full+high, test on low and no
+- Train on high+low, test on full and no (realistic example)

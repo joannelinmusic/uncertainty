@@ -1,0 +1,1 @@
+folder_path = '/Users/joannelin/Data/MNIST/'
